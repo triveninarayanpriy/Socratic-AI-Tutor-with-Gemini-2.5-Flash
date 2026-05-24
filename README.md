@@ -34,7 +34,7 @@ strict Socratic teaching: ask, scaffold, guide — never tell.
 ## 🚀 Getting Started
 
 1. Clone the repo
-   git clone https://github.com/your-username/socratic-learning-lab.git
+   git clone (https://github.com/triveninarayanpriy/Socratic-AI-Tutor-with-Gemini-2.5-Flash/)
 
 2. Install dependencies
    pip install google-genai gradio python-dotenv
